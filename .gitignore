@@ -61,3 +61,7 @@ crashlytics-build.properties
 BaseBuild/Library/
 BaseBuild/Temp/
 BaseBuild/.idea/
+
+2DShoot/Library/
+
+2DShoot/Temp/
