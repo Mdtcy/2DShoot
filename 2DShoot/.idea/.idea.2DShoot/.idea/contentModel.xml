@@ -1207,6 +1207,11 @@
           </e>
           <e p="readme.txt" t="Include" />
         </e>
+        <e p="Scripts" t="Include">
+          <e p="Health.cs" t="Include" />
+          <e p="HitProcesser.cs" t="Include" />
+          <e p="IHealth.cs" t="Include" />
+        </e>
       </e>
       <e p="MoreMountains.Feedbacks.csproj" t="IncludeRecursive" />
       <e p="MoreMountains.Feedbacks.Editor.csproj" t="IncludeRecursive" />
